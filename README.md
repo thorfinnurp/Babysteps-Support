@@ -8,7 +8,7 @@ If you have any questions, issues, or feedback, please don't hesitate to reach o
 
 ## Important Information
 
-This app is designed to provide suggestions and should not replace professional medical advice. Always trust your instincts and consult healthcare professionals for any concerns about your child's health or development. Remember, babies develop at different speeds, and that's perfectly normal. Use of this app is at your own risk, and the developers are not liable for any issues arising from its use. Please note that the app may contain bugs or inaccuracies, and its content is provided as-is without any guarantees. All the data is stored locally on your device and is not shared with any external servers or third parties.
+This app is designed to provide suggestions and should not replace professional medical advice. Always trust your instincts and consult healthcare professionals for any concerns about your child's health or development. Remember, babies develop at different speeds, and that's perfectly normal. Use of this app is at your own risk, and the developers are not liable for any issues arising from its use. Please note that the app may contain bugs or inaccuracies, and its content is provided as-is without any guarantees.
 
 ## Privacy Policy
 
@@ -20,7 +20,7 @@ This page informs you of our policies regarding the collection, use, and disclos
 
 **Information Collection and Use**
 
-We do not collect any personally identifiable information from users of our Service. All data entered into the app, such as baby's birth date, checklist items, or milestone progress, is stored locally on your device only. This data is not transmitted to us or any third parties.
+We use TelemetryDeck (telemetrydeck.com) to collect privacy-friendly, non-personally identifiable analytics to help us understand product usage and improve the app. TelemetryDeck collects a device identifier and product interaction events. This data is not linked to your identity, is not used for tracking across apps or websites, and is used only for analytics. Aside from these analytics signals, data you enter in the app (e.g., birth date, checklist items, milestone progress) is stored locally on your device and is not transmitted to us or other third parties.
 
 **Log Data**
 
